@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/VictorHumgria/VictorHumgria/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Social Media</h3>
 
 ###
 
